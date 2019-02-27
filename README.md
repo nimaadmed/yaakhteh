@@ -28,7 +28,7 @@ make
 cd ..
 
 ```
-3. Download models and put them in models folder
+3. Download [models](https://drive.google.com/drive/u/1/my-drive) and put them in models folder
 4. Run the Detection code:
 ```
 python3 tools/cell_detection.py
