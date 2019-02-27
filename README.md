@@ -28,6 +28,13 @@ make
 cd ..
 
 ```
+3. Run the Detection code:
+```
+python3 tools/cell_detection.py
+```
+
+
+
 
 
 
