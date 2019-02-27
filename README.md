@@ -36,6 +36,7 @@ python3 tools/cell_detection.py
 
 ## Result
 You can see an example output of software in following picture:
+![](https://github.com/nimaadmed/yaakhteh/blob/master/result.png)
 
 
 
