@@ -7,12 +7,12 @@ For detection part we use pretrained [ResNet18](https://github.com/pytorch/visio
 
 ## Requirements
 This software is developed in python3 and you should install following libraries:
--pytorch
--tensorflow
--numpy
--PIL
--cv2
--torchvision
+-pytorch\
+-tensorflow\
+-numpy\
+-PIL\
+-cv2\
+-torchvision\
 -tkinter
 
 
