@@ -6,7 +6,7 @@ For segmentation part we use [tf-faster-rcnn](https://github.com/endernewton/tf-
 For detection part we use pretrained [ResNet18](https://github.com/pytorch/vision/blob/master/torchvision/models/resnet.py).
 
 ## Requirements
-This software is developed in python3 and you should install following libraries:
+This software is developed in python3 and you should install following libraries:\
 -pytorch\
 -tensorflow\
 -numpy\
@@ -18,7 +18,7 @@ This software is developed in python3 and you should install following libraries
 ## Installation
 1. Clone the repository
 ```
-https://github.com/nimaadmed/yaakhteh
+git clone https://github.com/nimaadmed/yaakhteh
 ```
 2. Build tf-faster-rcnn part 
 ```
@@ -28,7 +28,7 @@ make
 cd ..
 
 ```
-3. Download [models](https://drive.google.com/drive/u/1/folders/102qNTG4Jz4aUBmIZ1PouqLktJZsegNOp) and put them in models folder
+3. Download [models](https://drive.google.com/drive/folders/102qNTG4Jz4aUBmIZ1PouqLktJZsegNOp?usp=sharing) and put them in models folder
 4. Run the Detection code:
 ```
 python3 tools/cell_detection.py
