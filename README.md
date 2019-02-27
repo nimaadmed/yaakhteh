@@ -15,6 +15,10 @@ This software is developed in python3 and you should install following libraries
 -torchvision\
 -tkinter
 
+## Installation
+1. Clone the repository
+
+
 
 
 
