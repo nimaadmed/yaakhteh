@@ -16,9 +16,19 @@ This software is developed in python3 and you should install following libraries
 -tkinter
 
 ## Installation
-```
 1. Clone the repository
 ```
+https://github.com/nimaadmed/yaakhteh
+```
+2. Build tf-faster-rcnn part 
+```
+cd Cell_detection\lib
+make clean
+make
+cd ..
+
+```
+
 
 
 
