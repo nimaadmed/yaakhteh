@@ -28,12 +28,14 @@ make
 cd ..
 
 ```
-3. Run the Detection code:
+3. Download models and put them in models folder
+4. Run the Detection code:
 ```
 python3 tools/cell_detection.py
 ```
 
-
+## Result
+You can see an example output of software in following picture:
 
 
 
