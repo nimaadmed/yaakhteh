@@ -22,7 +22,7 @@ git clone https://github.com/nimaadmed/yaakhteh
 ```
 2. Build tf-faster-rcnn part 
 ```
-cd Cell_detection\lib
+cd Cell_detection/lib
 make clean
 make
 cd ..
